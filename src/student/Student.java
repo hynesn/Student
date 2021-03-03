@@ -2,6 +2,7 @@ package student;
 
 /**
  *This comment was added March 3rd
+ This comment was added from GitHub on March 3 6:51pm to check fetch and merge
  * @author Emma's Place
  */
 public class Student {
